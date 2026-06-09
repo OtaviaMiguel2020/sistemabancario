@@ -1,7 +1,7 @@
-import React from 'react'
+import { ClientesBFA } from '@/components/ClientesBFA'
 
 export default function page() {
   return (
-    <div>page</div>
+    <ClientesBFA/>
   )
 }

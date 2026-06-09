@@ -52,29 +52,29 @@ const data = {
     },
     {
       title: "Processos",
-      url: "#",
+      url: "/dashboard",
       icon: <ClipboardListIcon />,
     },
     {
       title: "Aprovações",
-      url: "#",
+      url: "/dashboard",
       icon: <CheckCircleIcon />,
     },
     {
       title: "Compliance / KYC",
-      url: "#",
+      url: "/dashboard",
       icon: <ShieldCheckIcon />,
       items: [
       ],
     },
     {
       title: "Análise Comercial",
-      url: "#",
+      url: "/dashboard",
       icon: <BarChart2Icon />,
     },
     {
       title: "Alertas",
-      url: "#",
+      url: "/dashboard",
       icon: <AlertCircleIcon />,
     },
   ],
